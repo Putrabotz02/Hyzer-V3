@@ -1,37 +1,35 @@
 //=============『 Utama 』================== //
-global.owner = ['6281322667077', '6281215710461'] 
+global.owner = ['6283840600765', '6283840600765'] 
 global.mods = [] 
-global.prems = ['6281215710461', '6281322667077'] 
+global.prems = ['6283840600765', '6283840600765'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ZxyuuRomm'
-global.nameowner2 = 'XzyuuNaii'
-global.numberowner = '6281322667077'
-global.numberowner2 = '6281215710461'
-global.instagram = 'https://instagram.com/Naiichnz'
-global.github = 'https://github.com/romlisuhanda'
-global.dana = '081322667077'
-global.pulsa = '081215710461'
+global.nameowner = 'Putra Botz'
+global.numberowner = '6283840600765'
+global.instagram = 'https://instagram.com/Putra Nich'
+global.github = 'https://github.com/Putrabotz02'
+global.dana = '083856051043'
+global.pulsa = '083840600765'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Z X Y U U B O T Z - MD'
+global.namebot = 'PUTRA BOTZ - MD'
 global.gc = 'https://chat.whatsapp.com/K9vsKm2jDga8ATZEcfpEGA'
-global.web = 'https://zxyuuromm2.romlisuhanda040.repl.co/' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://github.com/Putrabotz02' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/a233720fe5119e6275ae7.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/a233720fe5119e6275ae7.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/43285cac38b23b1de8cf9.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/43285cac38b23b1de8cf9.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Z X Y U U B O T Z - Md'
+global.wm = 'PUTRA BOTZ - MD'
 global.watermark = wm
-global.wm2 = '                               「 Xzyuu Naii⁩ 」'
-global.wm3 = '⫹⫺ Zxyuu Botz'
+global.wm2 = '                               「 Putra Botz⁩ 」'
+global.wm3 = '⫹⫺ Putra Botz'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/a233720fe5119e6275ae7.jpg'
+global.media = 'https://telegra.ph/file/43285cac38b23b1de8cf9.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
@@ -39,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = ''
-global.author = '© 2022 Zxyuu - Xzyuu'
+global.author = '© 2022 Putra Botz'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
