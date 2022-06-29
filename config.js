@@ -19,8 +19,8 @@ global.web = 'https://github.com/Putrabotz02' //ubah jadi website lu, bisa link 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/43285cac38b23b1de8cf9.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/43285cac38b23b1de8cf9.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/30cf2e30037942b4e13b6.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/30cf2e30037942b4e13b6.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'PUTRA BOTZ - MD'
@@ -29,7 +29,7 @@ global.wm2 = '                               「 Putra Botz⁩ 」'
 global.wm3 = '⫹⫺ Putra Botz'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/43285cac38b23b1de8cf9.jpg'
+global.media = 'https://telegra.ph/file/30cf2e30037942b4e13b6.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
